@@ -31,4 +31,4 @@ if choice1 == "skogen":
     print(hero_name, "hittar en gammal skattkarta på marken!")
     has_map = True
 else:
-    print(hero_name, "tar den säkra omvägen runt skogen. Det tar längre tid, men är säkert.")
+    print(hero_name, "tar den säkra omvägen runt skogen. Det tar längre tid, men är säket.")
